@@ -1,5 +1,10 @@
 # Revenue Forecasting for Dynamic Pricing Optimization
 
+
+Kaggle Notebook:
+1. ML DNN Notebook: https://www.kaggle.com/code/shirshmall/revenue-forecast-for-dynamic-pricing-ml-dnn 
+2. AutoML H2O Notebook: https://www.kaggle.com/code/shirshmall/revenue-forecast-for-dynamic-pricing-automl-h2o
+
 ## Description
 
 Dynamic pricing has emerged as a pivotal strategy in the realm of online commerce, especially for extensive e-commerce platforms that offer diverse product ranges. This approach entails automated adjustments of product prices to optimize parameters like revenue and gross margin, ultimately aligning with market dynamics. In this project, we delve into the intricate interplay between product attributes and prices to establish an effective foundation for dynamic pricing.
