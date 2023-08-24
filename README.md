@@ -37,6 +37,4 @@ The "features.pdf" document offers a comprehensive list of column names in their
 Among the tree-based algorithms explored, XGBoost emerged as the most proficient performer, exhibiting superior predictive capabilities. Its ability to handle non-linear relationships and feature interactions significantly contributed to its success in accurately forecasting revenue.
 
 Following model selection and tuning, we transition to the deployment phase. To make the model accessible and user-friendly, we chose to deploy it using a Streamlit app setup. Streamlit's interactive and intuitive nature enables users to effortlessly input data and obtain revenue forecasts. This deployment approach ensures that the predictive power of the model can be harnessed by stakeholders without technical barriers.
-## Solution Submission
 
-To submit the solution, a file containing crucial information should be provided. The "IinelD" column must contain increasing natural numbers, drawn from the same-named column in "class.csv." The data records from the classification data should be included exactly once and in their original order, as represented by the "IinelD."
