@@ -4,6 +4,7 @@
 Kaggle Notebook:
 1. ML DNN Notebook: https://www.kaggle.com/code/shirshmall/revenue-forecast-for-dynamic-pricing-ml-dnn 
 2. AutoML H2O Notebook: https://www.kaggle.com/code/shirshmall/revenue-forecast-for-dynamic-pricing-automl-h2o
+3. EDA Notebook: https://www.kaggle.com/code/shirshmall/eda-revenue-forecast-for-dynamic-pricing
 
 ## Description
 
